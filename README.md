@@ -6,7 +6,7 @@
 
 ## Introdução
 
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por João Silva. O objetivo do projeto foi elencar 3 serviços AWS com a finalidade de realizar diminuição de custos imediatos na infraestrutura em nuvem.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Emelyn Montevechi. O objetivo do projeto foi elencar 3 serviços AWS com a finalidade de realizar diminuição de custos imediatos na infraestrutura em nuvem.
 
 ## Descrição do Projeto
 
