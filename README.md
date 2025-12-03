@@ -2,7 +2,7 @@
 
 **Data**: 03 de Dezembro de 2025  
 **Empresa**: Abstergo Industries  
-**Responsável**: João Silva
+**Responsável**: Emelyn Montevechi
 
 ## Introdução
 
